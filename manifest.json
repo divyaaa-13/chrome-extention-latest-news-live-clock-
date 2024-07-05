@@ -1,6 +1,6 @@
 {
-    "name" : "joke-extention",
-    "description" : "get a new joke everytime",
+    "name" : "latest-news",
+    "description" : "get news updates with a click",
     "version" : "0.0.1",
     "manifest_version" : 3,
     "action" : {
