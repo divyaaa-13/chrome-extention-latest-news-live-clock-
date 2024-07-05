@@ -1,0 +1,9 @@
+{
+    "name" : "joke-extention",
+    "description" : "get a new joke everytime",
+    "version" : "0.0.1",
+    "manifest_version" : 3,
+    "action" : {
+        "default_popup" : "index.html"
+    }
+}
